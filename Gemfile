@@ -6,4 +6,6 @@ source "http://rubygems.org"
 gem 'watir-webdriver'
 gem 'pry'
 gem 'page-object'
+gem 'rake'
+
 
