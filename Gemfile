@@ -7,4 +7,3 @@ gem 'watir-webdriver'
 gem 'pry'
 gem 'page-object'
 
-gemspec
